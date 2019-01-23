@@ -17,9 +17,3 @@ This project can be divided into three sections, each with in-depth wiki pages d
 * [**Basic-Flights**](https://github.com/10gen-interns/big-data-exploration/wiki/Basic-Analysis-on-Flights-Dataset) - Basic analysis on the Flights dataset using MongoDB Aggregation Framework 
 * [**PageRank-Flights**](https://github.com/10gen-interns/big-data-exploration/wiki/PageRank-on-Flights-Dataset) - Computing PageRank over the Flights dataset using the MongoDB MapReduce Framework
 * [**Twitter-Memes**](https://github.com/10gen-interns/big-data-exploration/wiki/PageRank-on-Twitter-Memes-Dataset) - Computing PageRank over the Twitter-Memes dataset using Hadoop and associated frameworks/languages (like Apache Pig, Amazon EMR)
-
-#### Contributors
-* [alabid](https://github.com/alabid)
-* [sweetieSong](https://github.com/sweetieSong)
-* [ranman](https://github.com/ranman)
-* [ajdavis](https://github.com/ajdavis)
